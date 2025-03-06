@@ -1,1 +1,2 @@
-# autograd
+# Building (& Explaining) Micrograd
+this repo is a follow along of Andrej Karpathy's video <a href="https://youtu.be/VMj-3S1tku0?si=vlM5ObmFiQm23dho">The spelled-out intro to neural networks and backpropagation: building micrograd</a> <br> As I go along I've tried to explain it better so that anyone who has not been able to understand anything during the session by Karpathy can (hopefully) understand it from this repo.
